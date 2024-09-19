@@ -12,7 +12,7 @@ Geoping is a simple Python script that pings a list of server URLs, extracts the
 - Visualize the results in a bar chart with Matplotlib.
 
 ## Prerequisites
-
+- Linux! & ping installed
 - Python 3.x
 - `matplotlib` library for plotting the results
 
