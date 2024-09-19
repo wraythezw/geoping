@@ -2,6 +2,9 @@
 
 Geoping is a simple Python script that pings a list of server URLs, extracts the average round-trip time, and visualizes the results using a bar chart. This tool is useful for plotting the latency to different server locations.
 
+
+![Ping Results](ping_results1.png)
+
 ## Features
 
 - Load server information from a JSON file.
