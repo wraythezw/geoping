@@ -1,0 +1,225 @@
+[
+    {
+        "label": "Africa",
+        "options": [
+            {
+                "country": "za",
+                "url": "https://jnb-za-ping.vultr.com/",
+                "value": "JNB",
+                "name": "Johannesburg"
+            }
+        ]
+    },
+    {
+        "label": "Asia",
+        "options": [
+            {
+                "country": "in",
+                "url": "https://blr-in-ping.vultr.com/",
+                "value": "BLR",
+                "name": "Bangalore"
+            },
+            {
+                "country": "in",
+                "url": "https://del-in-ping.vultr.com/",
+                "value": "DEL",
+                "name": "Delhi NCR"
+            },
+            {
+                "country": "in",
+                "url": "https://bom-in-ping.vultr.com/",
+                "value": "BOM",
+                "name": "Mumbai"
+            },
+            {
+                "country": "jp",
+                "url": "https://osk-jp-ping.vultr.com/",
+                "value": "ITM",
+                "name": "Osaka"
+            },
+            {
+                "country": "kr",
+                "url": "https://sel-kor-ping.vultr.com/",
+                "value": "ICN",
+                "name": "Seoul"
+            },
+            {
+                "country": "sg",
+                "url": "https://sgp-ping.vultr.com/",
+                "value": "SGP",
+                "name": "Singapore",
+                "selected": true
+            },
+            {
+                "country": "il",
+                "url": "https://tlv-il-ping.vultr.com/",
+                "value": "TLV",
+                "name": "Tel Aviv"
+            },
+            {
+                "country": "jp",
+                "url": "https://hnd-jp-ping.vultr.com/",
+                "value": "NRT",
+                "name": "Tokyo"
+            }
+        ]
+    },
+    {
+        "label": "Australia",
+        "options": [
+            {
+                "country": "au",
+                "url": "https://mel-au-ping.vultr.com/",
+                "value": "MEL",
+                "name": "Melbourne"
+            },
+            {
+                "country": "au",
+                "url": "https://syd-au-ping.vultr.com/",
+                "value": "SYD",
+                "name": "Sydney"
+            }
+        ]
+    },
+    {
+        "label": "Europe",
+        "options": [
+            {
+                "country": "nl",
+                "url": "https://ams-nl-ping.vultr.com/",
+                "value": "AMS",
+                "name": "Amsterdam"
+            },
+            {
+                "country": "de",
+                "url": "https://fra-de-ping.vultr.com/",
+                "value": "FRA",
+                "name": "Frankfurt"
+            },
+            {
+                "country": "gb",
+                "url": "https://lon-gb-ping.vultr.com/",
+                "value": "LHR",
+                "name": "London"
+            },
+            {
+                "country": "es",
+                "url": "https://mad-es-ping.vultr.com/",
+                "value": "MAD",
+                "name": "Madrid"
+            },
+            {
+                "country": "gb",
+                "url": "https://man-uk-ping.vultr.com/",
+                "value": "MAN",
+                "name": "Manchester"
+            },
+            {
+                "country": "fr",
+                "url": "https://par-fr-ping.vultr.com/",
+                "value": "CDG",
+                "name": "Paris"
+            },
+            {
+                "country": "se",
+                "url": "https://sto-se-ping.vultr.com/",
+                "value": "STO",
+                "name": "Stockholm"
+            },
+            {
+                "country": "pl",
+                "url": "https://waw-pl-ping.vultr.com/",
+                "value": "WAW",
+                "name": "Warsaw"
+            }
+        ]
+    },
+    {
+        "label": "North America",
+        "options": [
+            {
+                "country": "us",
+                "url": "https://ga-us-ping.vultr.com/",
+                "value": "ATL",
+                "name": "Atlanta"
+            },
+            {
+                "country": "us",
+                "url": "https://il-us-ping.vultr.com/",
+                "value": "ORD",
+                "name": "Chicago"
+            },
+            {
+                "country": "us",
+                "url": "https://tx-us-ping.vultr.com/",
+                "value": "DFW",
+                "name": "Dallas"
+            },
+            {
+                "country": "us",
+                "url": "https://hon-hi-us-ping.vultr.com/",
+                "value": "HNL",
+                "name": "Honolulu"
+            },
+            {
+                "country": "us",
+                "url": "https://lax-ca-us-ping.vultr.com/",
+                "value": "LAX",
+                "name": "Los Angeles"
+            },
+            {
+                "country": "mx",
+                "url": "https://mex-mx-ping.vultr.com/",
+                "value": "MEX",
+                "name": "Mexico City"
+            },
+            {
+                "country": "us",
+                "url": "https://fl-us-ping.vultr.com/",
+                "value": "MIA",
+                "name": "Miami"
+            },
+            {
+                "country": "us",
+                "url": "https://nj-us-ping.vultr.com/",
+                "value": "EWR",
+                "name": "New Jersey"
+            },
+            {
+                "country": "us",
+                "url": "https://wa-us-ping.vultr.com/",
+                "value": "SEA",
+                "name": "Seattle"
+            },
+            {
+                "country": "us",
+                "url": "https://sjo-ca-us-ping.vultr.com/",
+                "value": "SJC",
+                "name": "Silicon Valley"
+            },
+            {
+                "country": "ca",
+                "url": "https://tor-ca-ping.vultr.com/",
+                "value": "YTO",
+                "name": "Toronto"
+            }
+        ]
+    },
+    {
+        "label": "South America",
+        "options": [
+            {
+                "country": "cl",
+                "url": "https://scl-cl-ping.vultr.com/",
+                "value": "SCL",
+                "name": "Santiago"
+            },
+            {
+                "country": "br",
+                "url": "https://sao-br-ping.vultr.com/",
+                "value": "SAO",
+                "name": "São Paulo"
+            }
+        ]
+    }
+]
