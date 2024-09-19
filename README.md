@@ -80,7 +80,7 @@ The script will output the average ping times for each server and generate a bar
 
 ## License
 
-This project is licensed under the GPL-3.0 license - see the [https://github.com/wraythezw/geoping#GPL-3.0-1-ov-file](LICENSE) file for details.
+This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
